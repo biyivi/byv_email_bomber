@@ -21,3 +21,10 @@ $ bash install,sh
 Para ejecutar el script.
 
 $ python email_bomber.py
+
+## Linux
+$ git clone https://github.com/biyivi/byv_email_bomber
+
+$ cd byv_email_bomber
+
+$ python email_bomber.py
