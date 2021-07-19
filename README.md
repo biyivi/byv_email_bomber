@@ -30,6 +30,12 @@ $ git clone https://github.com/biyivi/byv_email_bomber
 
 $ cd byv_email_bomber
 
+**Solo cuando usas el script por primera vez.
+
+$ bash install,sh
+
+Para ejecutar el script.
+
 $ python email_bomber.py
 
 # Redes sociales:
