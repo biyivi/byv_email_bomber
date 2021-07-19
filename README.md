@@ -1,1 +1,2 @@
-# byv_email_bomber
+# Email-bomber
+Spam de mensajes para correos electronicos 
