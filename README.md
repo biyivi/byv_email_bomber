@@ -9,9 +9,15 @@ Si estás utilizando una cuenta de GMAIL o YAHOO, deberá cambiar la configuraci
 # Instalación
 ## Termux
 $ pkg install git -y 
+
 $ git clone https://github.com/biyivi/byv_email_bomber
+
 $ cd byv_email_bomber
+
 **Solo cuando usas el script por primera vez.
+
 $ bash install,sh
-Para ejecutar el script 
+
+Para ejecutar el script.
+
 $ python email_bomber.py
